@@ -23,3 +23,5 @@ while True:
         print(f"Jūsų pasirinktų skaičių skirtumas yra {skaicius1 - skaicius2}")
     if pasirinkimas == "3":
         print(f"Jūsų pasirinktų skaičių sandauga yra {skaicius1 * skaicius2}")
+    if pasirinkimas == "4":
+        print(f"Jūsų pasirinktų skaičių dalmuo yra {skaicius1 / skaicius2}")
