@@ -1,0 +1,1 @@
+print("ketvirtas bandymas")
