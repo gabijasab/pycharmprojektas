@@ -1,3 +1,3 @@
 print("hello new project")
-print("Prideta po pirmojo commit")
+print("Prideta cm-pirmas")
 print("Prideta po antrojo commit")
