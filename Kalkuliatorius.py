@@ -19,3 +19,7 @@ while True:
     skaicius2 = int(input("įveskite kitą skaičių"))
     if pasirinkimas == "1":
         print(f"Jūsų pasirinktų skaičių suma yra {skaicius1 + skaicius2}")
+    if pasirinkimas == "2":
+        print(f"Jūsų pasirinktų skaičių skirtumas yra {skaicius1 - skaicius2}")
+    if pasirinkimas == "3":
+        print(f"Jūsų pasirinktų skaičių sandauga yra {skaicius1 * skaicius2}")
