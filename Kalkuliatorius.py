@@ -10,10 +10,6 @@ while True:
     if pasirinkimas == "q":
         print("Išėjote iš programos :)")
         break
-    if pasirinkimas not in ("1", "2", "3", "4"):
-
-        print("tokio pasirinkimo nera")
-        continue
 
     skaicius1 = int(input("įveskite skaičių"))
     skaicius2 = int(input("įveskite kitą skaičių"))
